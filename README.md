@@ -11,7 +11,7 @@ I first discovered my love for problem solving during my study of Maths at unive
 | [**Makersbnb**](https://github.com/dennihous/makersbnb) | Project replicating Airbnb | Ruby, Capybara, Rspec, Sinatra, PostgreSQL |
 | [**broSplits**](https://github.com/dennihous/broSplits)| My personal fitness app| Javacscript, Handlebars, Jest, express|
 
-Technologies and tools I have used in other projects include, Ruby on rails, Heroku, SQL, Github Actions, TDD, OOP, MVC and DDD. 
+Technologies and tools I have used in other projects include, Vue.js, Ruby on rails, Heroku, SQL, Github Actions, TDD, OOP, MVC and DDD. 
 
 ## <h2 id="work">Work Experience</h2>
 
