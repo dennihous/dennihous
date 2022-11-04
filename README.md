@@ -39,24 +39,14 @@ _Lifegurading roles_
 
 ## <h2 id="education">Education</h2>
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy _Febuary 2022-May 2022_
+A Four-month intensive software engineering course focused on JavaScript, Ruby, Ruby on Rails and various other technologies.
+— I used my time to be proactively learning from my cohort and coaches.
+— I was able to practice clean code whilst under time constraints to ensure well-tested, readable code.
+— I effectively used communication skills to interact with the rest of my team to make stand-ups and retros more efficient. 
+— I frequently checked in to make sure the rest of the group were coping with the tasks given out.
 
 #### Univeristy of Leeds _September 2017-September 2020_
 
 - Mathematics
 - Represented the university in Water Polo
-
-#### Any other qualifications
-
-For the past year I have been a swim teacher which has allowed me to improve my presentation skills and confidence.
-
-## <h2 id="hobbies">Hobbies</h2>
-
-In my spare time I like to keep fit by doing a multitude of sports including, kayaking, running, water polo, swimming and gym.
