@@ -53,4 +53,4 @@ A Four-month intensive software engineering course focused on JavaScript, Ruby, 
 
 ## <h2 id="contact">Contact Details</h2>
 
-- [**Linkedin**](https://www.linkedin.com/in/dennis-houston-170772111/)
+- [**Linkedin**](https://www.linkedin.com/in/dennihous/)
