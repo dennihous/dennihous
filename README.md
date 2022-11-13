@@ -25,7 +25,7 @@ _Lifeguarding roles_
 **The Anglers Teddington, The Cabbage Patch** May 2021 - present
 _Front of House_
 
-- I app customers happy and create and enjoyable environment, I see customers regularly and create report.
+- Keeping customers happy and create and enjoyable environment, I see customers regularly and create report.
 - Working multiple roles at the same time to ensure a smooth service for the customers.
 - Working well in a team delegating tasks to work cohesively as a team.
 
