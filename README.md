@@ -10,7 +10,6 @@
 | [**DenniSocial**](https://github.com/dennihous/socialMedia_react) | Personal Socail Media app | React, express, MongoDB, Node.js, axios|
 | [**Travel-angel**](https://github.com/dennihous/travel-angel) | Final project from makers | React, Jest, express, MongoDB, Node|
 | [**Makersbnb**](https://github.com/dennihous/makersbnb) | Project replicating Airbnb | Ruby, Capybara, Rspec, Sinatra, PostgreSQL |
-| [**broSplits**](https://github.com/dennihous/broSplits)| My personal fitness app| Javacscript, Handlebars, Jest, express|
 
 Technologies and tools I have used in other projects include, Vue.js, Ruby on rails, Heroku, SQL, Github Actions, TDD, OOP, MVC and DDD. 
 
