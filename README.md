@@ -7,6 +7,7 @@
 https://github.com/dennihous/resistanceBands
 | Name                         | Description       | Tech/tools               |
 | ---------------------------- | ----------------- | -----------------        |
+| [**ElasticsOnline**](https://elasticsonline.com) | Personal E-commerce website | JavaScript, CSS, HTML, Webpack, express|
 | [**Resistance Bands**](https://github.com/dennihous/resistanceBands) | Personal E-commerce website | React, TypeScript, Webpack, express, Node.js, Context API|
 | [**DenniSocial**](https://github.com/dennihous/socialMedia_react) | Personal Socail Media app | React, express, MongoDB, Node.js, axios|
 | [**Travel-angel**](https://github.com/dennihous/travel-angel) | Final project from makers | React, Jest, express, MongoDB, Node|
