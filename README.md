@@ -4,7 +4,6 @@
 - I first discovered my love for problem solving during my study of Maths at university. Similarly I have been able to find the same enjoyment in coding with solving bugs and creating DRY code.
 
 ## <h2 id="projects">Projects</h2>
-https://github.com/dennihous/resistanceBands
 | Name                         | Description       | Tech/tools               |
 | ---------------------------- | ----------------- | -----------------        |
 | [**ElasticsOnline**](https://elasticsonline.com) | Personal E-commerce website | JavaScript, CSS, HTML, Webpack, express|
